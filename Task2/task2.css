@@ -13,12 +13,12 @@ body {
   background-color: white;
 }
 
-.timeline {
+.mainline {
   position: relative;
   padding: 40px 0;
 }
 
-.timeline-line {
+.line {
   position: absolute;
   top: 26px;
   right: 0;
@@ -38,7 +38,7 @@ body {
   justify-content: space-between;
   position: relative;
 }
-.timeline-item {
+.item {
   flex: 1;
   text-align: center;
   position: relative;
